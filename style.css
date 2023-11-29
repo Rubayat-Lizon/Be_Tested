@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    /* font-family: 'Fira Sans', sans-serif; */
+}
+
+/* ---------------------Navbar Design Start hare-----------------------  */
+
+.top-menu {
+    box-shadow: 0px 5px 15px 5px #dfdfdf;
+}
+
+a {
+    font-size: 18px !important;
+    text-decoration: none;
+}
+
+.block-btn {
+    color: #fff;
+    background-color: #274E13;
+    padding: 10px 20px;
+}
+
+/* ---------------------Navbar Design End hare-----------------------  */
+
+/* ---------------------Description Design Start hare-----------------------  */
+
+.hero-area{
+    overflow-x: hidden;
+}
+.hero-img {
+    margin-right: -21%;
+}
+.features{
+    background-color: #274E13;
+    color: #fff;
+    box-shadow: inset 0px 5px 5px 0px #000000;
+}
+.quotation{
+    color: #274E13;
+    box-shadow: 0px 5px 15px 5px #000000;
+}
+
+
+/* ---------------------Description Design Ends hare-----------------------  */
+
+
+
+
